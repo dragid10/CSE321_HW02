@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HW02.iml" filepath="$PROJECT_DIR$/HW02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homework02.iml" filepath="$PROJECT_DIR$/.idea/modules/homework02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homework02_main.iml" filepath="$PROJECT_DIR$/.idea/modules/homework02_main.iml" group="homework02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homework02_test.iml" filepath="$PROJECT_DIR$/.idea/modules/homework02_test.iml" group="homework02" />
     </modules>
   </component>
 </project>
